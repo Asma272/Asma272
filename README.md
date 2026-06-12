@@ -25,6 +25,8 @@
 * Scikit-Learn
 * NLP
 * Data Visualization
+* Matplotlib
+* Seaborn
 
 ### Development & Tools
 
