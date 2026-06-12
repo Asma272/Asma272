@@ -75,7 +75,6 @@ Desktop-based hotel booking management application developed using Java Swing an
 ## 📫 Contact With Me
 
 * LinkedIn: https://www.linkedin.com/in/asma-albeshri-3a48a827b/
-* GitHub: https://github.com/Asma272
 
 ---
 
